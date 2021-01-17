@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BluetoothChat</string>
+    <string name="bluetooth_on">Bluetooth ON</string>
+    <string name="bluetooth_off">Bluetooth OFF</string>
+    <string name="list_devices">List Devices</string>
+    <string name="listen">Listen</string>
+    <string name="message">Message</string>
+    <string name="send">Send</string>
+    <string name="name">Name</string>
+    <string name="type_message">Type Message</string>
+    <string name="states">States</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="status">Status</string>
+    <string name="listdevice">ListDevice</string>
+    <string name="bluetoothon">BluetoothON</string>
+    <string name="bluetoothoff">BluetoothOFF</string>
+</resources>
