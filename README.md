@@ -1,12 +1,12 @@
 
- #| Student Name       |         ID     |<br>
+ # | Student Name       |         ID     |<br>
  
-##|--------------------|--------------  |<br>   
-##|Mersha Ayidagnu     |        1263    |<br>
-##|Medin Wiletawu      |        1252    |<br>
-##|Mikael Selamsew     |        1266    |<br>
-##|Solomon Nebere      |        1316    |<br>
-##|Akeber Sintayehu    |        1109    |<br>
+## |--------------------|--------------  |<br>   
+## |Mersha Ayidagnu     |        1263    |<br>
+## |Medin Wiletawu      |        1252    |<br>
+## |Mikael Selamsew     |        1266    |<br>
+## |Solomon Nebere      |        1316    |<br>
+## |Akeber Sintayehu    |        1109    |<br>
 
 
 
