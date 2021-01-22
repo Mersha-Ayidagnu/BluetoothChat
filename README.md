@@ -23,5 +23,5 @@ MODULES: The given are the modules for the android Bluetooth chat system:<br><br
 3.)	DOCUMENT MODULE: In this module, all the text which is to be shared is kept. This module is of great importance.<br><br>
 4.)	ADMIN MODULE: If the text contains un-appropriate content than the admin have the whole right of banning the content or cancelling the sharing of files or documentation from the system.<br><br>
 5.)	USER MODULE: This module contains all the accounts and login system for both the senders and the receivers.<br><br>
-Technologies used in the android multilayer pattern locking project
+Technologies used in the androids multilayer pattern locking project
 
